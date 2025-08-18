@@ -1,4 +1,3 @@
-## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cenzer0/Cenzer0/main/output/snake.svg" alt="Contribution Snake Animation" />
 </p>
@@ -19,20 +18,20 @@
 
 ---
 
-## 🐉 About Me
-- ⚡ Cybersecurity & exploit research  
-- 🛡 Building **vulnZ** (Vuln & Exploit Checker) + **Z00SCAN** (Advanced Port/Service Scanner)   
-- 🐧 Linux enjoyer, open-source believer  
-- 🌍 Futuristic thinker — “break limits, not ethics”  
+##  About Me
+- ⚡ Cybersecurity & exploit research  |  IT Entusiast
+- 🛡 Building **vulnZ** (Vuln & Exploit Checker) + **Z00SCAN** (Advanced Port/Service Scanner)  + **CNZR Framework** (Lightweight Framework) 
+- 🐧 Linux enjoyer, open-source believer ,critical thinker
+-    "All In The World Give Me Pain" -TheZero
 
 ---
 
 ## 🧰 Tech Arsenal
 ```bash
-💻 Languages   : Python | TypeScript | JavaScript | Bash | Lua (Roblox) | C++
-🌐 Web         : Node.js | React | Tailwind | Supabase
-🔐 Security    : Nmap | Burp Suite | Wireshark | Metasploit
-🛠 DevOps      : Docker | GitHub Actions | Linux
+💻 Languages   : Python | TypeScript | JavaScript | Bash | Lua | C++
+🌐 Web         : Node.js | React | Tailwind | Supabase |  HTML | CSS 
+🔐 Security    : Nmap | Burp Suite | Wireshark | Metasploit | SQLmap | Bettercap | Hydra
+🛠 DevOps      : Docker | GitHub Actions | Linux | Codespace | Mac
 ```
 <p align="center">
   <!-- Core Stats -->
