@@ -19,10 +19,10 @@
 ---
 
 ##  About Me
- ⚡ Cybersecurity & exploit research  |  IT Entusiast
- 🛡 Building **vulnZ** (Vuln & Exploit Checker) + **Z00SCAN** (Advanced Port/Service Scanner)  + **CNZR Framework** (Lightweight Framework) 
- 🐧 Linux enjoyer, open-source believer ,critical thinker
- "All In The World Give Me Pain"    -TheZero
+- ⚡ Cybersecurity & exploit research  |  IT Entusiast
+- 🛡 Building **vulnZ** (Vuln & Exploit Checker) + **Z00SCAN** (Advanced Port/Service Scanner)  + **CNZR Framework** (Lightweight Framework)
+- 🐧 Linux enjoyer, open-source believer ,critical thinker
+- "All In The World Give Me Pain"    -TheZero
 
 ---
 
@@ -36,7 +36,7 @@
 <p align="center">
   <!-- Core Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Cenzer0&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cenzer0&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cenzer0&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
