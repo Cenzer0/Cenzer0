@@ -18,7 +18,7 @@ jobs:
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: Cenzoo
+          github_user_name: Cenzer0
           outputs: |
             dist/snake.svg
 
