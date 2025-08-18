@@ -28,3 +28,19 @@
 🌐 Web         : Node.js | React | Tailwind | Supabase
 🔐 Security    : Nmap | Burp Suite | Wireshark | Metasploit
 🛠 DevOps      : Docker | GitHub Actions | Linux
+
+<p align="center">
+  <!-- Core Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Cenzoo&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cenzoo&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <!-- Streaks -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cenzoo&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Cenzoo&theme=dracula&no-frame=true&row=1&column=6" />
+</p>
