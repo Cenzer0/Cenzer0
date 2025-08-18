@@ -1,11 +1,6 @@
-<!-- HEADER: Hacker GIF -->
-<p align="center">
-  <img src="https://i.imgur.com/3Z7QZ3K.gif" alt="Hacker Matrix Rain" width="100%" />
-</p>
-
 <h1 align="center">
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Cenzoo+%F0%9F%90%8D;Cybersecurity+%26+Exploit+Researcher+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%92%BB;Roblox+Game+Maker+%F0%9F%8E%AE;System+Administrator+%E2%9A%99%EF%B8%8F;Always+Hacking+the+Future+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Cenzoo+%F0%9F%90%8D;Cybersecurity+%26+Exploit+Researcher+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%92%BB;System+Administrator+%E2%9A%99%EF%B8%8F;Always+Hacking+the+Future+%F0%9F%9A%80" alt="Typing Animation" />
 </h1>
 
 <p align="center">
