@@ -28,7 +28,7 @@
 🌐 Web         : Node.js | React | Tailwind | Supabase
 🔐 Security    : Nmap | Burp Suite | Wireshark | Metasploit
 🛠 DevOps      : Docker | GitHub Actions | Linux
-
+```
 <p align="center">
   <!-- Core Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Cenzoo&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
