@@ -19,10 +19,10 @@
 ---
 
 ##  About Me
-- ⚡ Cybersecurity & exploit research  |  IT Entusiast
-- 🛡 Building **vulnZ** (Vuln & Exploit Checker) + **Z00SCAN** (Advanced Port/Service Scanner)  + **CNZR Framework** (Lightweight Framework) 
-- 🐧 Linux enjoyer, open-source believer ,critical thinker
--    "All In The World Give Me Pain" -TheZero
+ ⚡ Cybersecurity & exploit research  |  IT Entusiast
+ 🛡 Building **vulnZ** (Vuln & Exploit Checker) + **Z00SCAN** (Advanced Port/Service Scanner)  + **CNZR Framework** (Lightweight Framework) 
+ 🐧 Linux enjoyer, open-source believer ,critical thinker
+ "All In The World Give Me Pain"    -TheZero
 
 ---
 
@@ -57,7 +57,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Quote" />
 </p>
 
-<p>
+<p align="center">
   <a href="https://github.com/Cenzer0"><img src="https://img.shields.io/badge/GitHub-Cenzer0-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://t.me/Cenzer0"><img src="https://img.shields.io/badge/Telegram-contact-blue?style=for-the-badge&logo=telegram" /></a>
   <a href="https://www.linkedin.com/muhammad-falih-afiq"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
