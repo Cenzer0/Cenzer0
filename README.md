@@ -31,16 +31,37 @@
 ```
 <p align="center">
   <!-- Core Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Cenzoo&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cenzoo&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cenzer0&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cenzer0&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
   <!-- Streaks -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cenzoo&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cenzer0&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
   <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Cenzoo&theme=dracula&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Cenzer0&theme=dracula&no-frame=true&row=1&column=6" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cenzer0&custom_title=Cenzer0%27s%20Activity%20Graph&hide_border=true&theme=react-dark" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Quote" />
+</p>
+
+<p>
+  <a href="https://github.com/Cenzer0"><img src="https://img.shields.io/badge/GitHub-Cenzer0-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://t.me/Cenzer0"><img src="https://img.shields.io/badge/Telegram-contact-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://www.linkedin.com/muhammad-falih-afiq"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cenzer0/Cenzer0/output/snake.svg" alt="Contribution Snake Animation" />
+</p>
+```
+
+
