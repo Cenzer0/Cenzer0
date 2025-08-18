@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- HEADER: Hacker GIF -->
+<p align="center">
+  <img src="https://i.imgur.com/3Z7QZ3K.gif" alt="Hacker Matrix Rain" width="100%" />
+</p>
 
-<!--
-**Cenzer0/Cenzer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Cenzoo+%F0%9F%90%8D;Cybersecurity+%26+Exploit+Researcher+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%92%BB;Roblox+Game+Maker+%F0%9F%8E%AE;System+Administrator+%E2%9A%99%EF%B8%8F;Always+Hacking+the+Future+%F0%9F%9A%80" alt="Typing Animation" />
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <!-- Animated Badges -->
+  <img src="https://komarev.com/ghpvc/?username=Cenzoo&label=Profile%20Views&color=1abc9c&style=flat-square" />
+  <img src="https://img.shields.io/badge/OS-Linux-black?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Sec-Red%20Team-critical?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Building%20vulnZ%20%26%20Z00SCAN-6f42c1?style=flat-square" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🐉 About Me
+- ⚡ Cybersecurity & exploit research  
+- 🛡 Building **vulnZ** (Vuln & Exploit Checker) + **Z00SCAN** (Advanced Port/Service Scanner)   
+- 🐧 Linux enjoyer, open-source believer  
+- 🌍 Futuristic thinker — “break limits, not ethics”  
+
+---
+
+## 🧰 Tech Arsenal
+```bash
+💻 Languages   : Python | TypeScript | JavaScript | Bash | Lua (Roblox) | C++
+🌐 Web         : Node.js | React | Tailwind | Supabase
+🔐 Security    : Nmap | Burp Suite | Wireshark | Metasploit
+🛠 DevOps      : Docker | GitHub Actions | Linux
