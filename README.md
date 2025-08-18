@@ -10,7 +10,7 @@
 <p align="center">
   <!-- Animated Badges -->
   <img src="https://komarev.com/ghpvc/?username=Cenzoo&label=Profile%20Views&color=1abc9c&style=flat-square" />
-  <img src="https://img.shields.io/badge/OS-Mac-black?style=flat-square&logo=mac" />
+  <img src="https://img.shields.io/badge/OS-MacOS-black?style=flat-square&logo=macos" />
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/Sec-Red%20Team-critical?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Building%20vulnZ%20%26%20Z00SCAN-6f42c1?style=flat-square" />
