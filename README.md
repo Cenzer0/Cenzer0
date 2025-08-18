@@ -40,8 +40,7 @@
 </p>
 
 <p align="center">
-  <!-- Streaks -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cenzer0&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cenzer0&custom_title=Cenzer0%27s%20Activity%20Graph&hide_border=true&theme=react-dark" />
 </p>
 
 <p align="center">
@@ -50,7 +49,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cenzer0&custom_title=Cenzer0%27s%20Activity%20Graph&hide_border=true&theme=react-dark" />
+  <!-- Streaks -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cenzer0&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
