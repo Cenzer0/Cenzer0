@@ -28,7 +28,7 @@
 
 ## 🧰 Tech Arsenal
 ```bash
-💻 Languages   : Python | TypeScript | JavaScript | Bash | Lua | C++
+💻 Languages   : Python | TypeScript | JavaScript | Bash | Lua | C++ | PHP | C | HTML
 🌐 Web         : Node.js | React | Tailwind | Supabase |  HTML | CSS 
 🔐 Security    : Nmap | Burp Suite | Wireshark | Metasploit | SQLmap | Bettercap | Hydra
 🛠 DevOps      : Docker | GitHub Actions | Linux | Codespace | Mac
