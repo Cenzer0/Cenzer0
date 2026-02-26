@@ -58,18 +58,10 @@ I'm an Information Systems student and tech enthusiast operating at the intersec
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Cenzer0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="190" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cenzer0&layout=compact&theme=tokyonight&hide_border=true" height="190" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cenzer0&show_icons=true&theme=tokyonight&hide_border=true" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cenzer0&layout=compact&theme=tokyonight&hide_border=true" height="190" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Cenzer0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -80,7 +72,15 @@ I'm an Information Systems student and tech enthusiast operating at the intersec
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cenzer0&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Cenzer0&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cenzer0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cenzer0&custom_title=Cenzer0%27s%20Activity%20Graph&hide_border=true&theme=tokyonight&bg_color=1a1b27" alt="Activity Graph" />
 </p>
 
 ---
