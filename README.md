@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://github.com/Cenzer0">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Muhammad+Falih+Afiq+(Cenzoo)+%F0%9F%90%8D;Cybersecurity+%26+Exploit+Researcher+%F0%9F%94%90;Founder+of+CNZR+(Coding+Next+Zenith+Reality)+%E2%9A%A1;Full+Stack+%26+AI%2FML+Developer+%F0%9F%92%BB;Always+Hacking+the+Future+%F0%9F%9A%80" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Muhammad+Falih+Afiq+(Cenzer0)+%F0%9F%90%8D;Cybersecurity+%26+Exploit+Researcher+%F0%9F%94%90;Founder+of+CNZR+(Coding+Next+Zenith+Reality)+%E2%9A%A1;Full+Stack+%26+AI%2FML+Developer+%F0%9F%92%BB;Always+Hacking+the+Future+%F0%9F%9A%80" alt="Typing Animation" />
   </a>
 </h1>
 
