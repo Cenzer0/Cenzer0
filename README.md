@@ -12,7 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=Cenzer0&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
   <img src="https://img.shields.io/badge/System-Arch_Linux_%7C_macOS-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Sec-Red%20Team-critical?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aspiring-Google_Student_Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 <br>
