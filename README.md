@@ -21,7 +21,7 @@
 I'm an Information Systems student and tech enthusiast operating at the intersection of **Cybersecurity**, **AI/ML**, and **Systems Engineering**. Whether it's hunting vulnerabilities, compiling a custom IDE, or building smart IoT systems, I love breaking things down to understand how they work.
 
 - 🔭 **Currently Building:** **vulnZ** (Exploit Checker), **Z00SCAN**, and **CNZR Framework**.
-- 🚀 **Latest Projects:** **G-SATRIA** (IoT Landslide Detection), **PahamInvest** (AI Research Tool), and **Isienza** (Custom IDE).
+- 🚀 **Latest Projects:** **G-SATRIA** (IoT Landslide Detection), **PahamInvest** (AI Research Tool), and.
 - 🌱 **Currently Exploring:** The roadmap to **Web3 Development**, Advanced Penetration Testing (CTFs), and Machine Learning integration.
 - 💬 **Ask me about:** Python/Django, Arch Linux (Hyprland) ricing, or surviving *Dark Souls* & *Cyberpunk*.
 - 📫 **Quote:** *"All In The World Give Me Pain"* — TheZero
