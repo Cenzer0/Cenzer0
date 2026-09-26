@@ -61,10 +61,6 @@ I'm an Information Systems student and tech enthusiast operating at the intersec
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Cenzer0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cenzer0&custom_title=Cenzer0%27s%20Activity%20Graph&hide_border=true&theme=tokyonight&bg_color=1a1b27" alt="Activity Graph" />
-</p>
-
 ---
 
 <p align="center">
